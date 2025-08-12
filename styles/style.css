@@ -15,3 +15,16 @@ body {
             border-radius: 8px;
             margin-top: 20px;
         }
+        .formulario {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .boton {
+            background: #a1e632;
+            color: rgb(16, 7, 94);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
